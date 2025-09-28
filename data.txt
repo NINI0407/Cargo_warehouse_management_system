@@ -1,0 +1,10 @@
+0007 Apple Marin Food 1024 666 100000
+0001 Orange Stxxx Food 500 500 50000
+0005 Grean_tea Mr.tea Drink 220 765 243000
+0008 Red_tea Mr.tea Drink 562 772 165200
+0004 Milk_tea Mr.tea Drink 426 765 132000
+0002 English Reader Book 446 1050 600000
+0009 Chips Lay's Food 600 540 168400
+0010 Cola Coca-Cola Drink 999 2300 465200
+0030 Math Logic Fruit 80 60 50000
+0031 aaa bbb Book 1111 2222 3333
